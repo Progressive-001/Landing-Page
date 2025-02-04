@@ -607,13 +607,13 @@ a:hover .icon {
     font-size: 1.8rem;
   }
   .container::before {
-    background-image: url(/manage-landing-page-master/images/bg-tablet-pattern.svg);
+    background-image: url(./images/bg-tablet-pattern.svg);
     background-size: 380px;
     top: 520px;
     left: 200px;
   }
   .container::after {
-    background-image: url(/manage-landing-page-master/images/bg-tablet-pattern.svg);
+    background-image: url(./images/bg-tablet-pattern.svg);
     width: 500px;
     height: 500px;
     top: -95px;
@@ -727,7 +727,7 @@ a:hover .icon {
     width: 300px;
   }
   .fifth-container::before {
-    background-image: url(/manage-landing-page-master/images/bg-tablet-pattern.svg);
+    background-image: url(./images/bg-tablet-pattern.svg);
     background-size: 450px;
     bottom: -200px;
     left: -350px;
